@@ -1,10 +1,4 @@
-# 学生管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ： **学生5**，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 学生管理系统5
 
 ## 1、项目介绍
 
@@ -28,15 +22,12 @@
 
 ## 4、功能介绍
 
-### ![学生信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121557340.jpg)
+### ![学生信息管理](https://www.codeshop.fun/Typora-Images/202208121557340.jpg)
 
-![班级信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121557947.jpg)
+![班级信息管理](https://www.codeshop.fun/Typora-Images/202208121557947.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ： **学生5**，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**学生**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
